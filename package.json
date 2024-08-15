@@ -9,6 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@vercel/speed-insights": "^1.0.12",
     "expo": "~51.0.28",
     "expo-sqlite": "~14.0.6",
     "expo-status-bar": "~1.12.1",

@@ -2,6 +2,7 @@ import { View, TouchableOpacity, StyleSheet, TextInput, Alert, FlatList, Image, 
 import React, { useEffect, useState } from 'react';
 import { usarBD } from './hooks/usarBD';
 import { Produto } from './components/produto';
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 export function Index() {
 
